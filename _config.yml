@@ -35,13 +35,13 @@ navs:
     href: /categories/
     label: Post
 
-#  -
-    #href: /wiki/
-  #  label: Wiki #
-
   -
-    href: /links/
-    label: Links
+    href: /wiki/
+    label: Wiki 
+
+  #-
+    #href: /links/
+    #label: Links
 
   -
     href: /about/
