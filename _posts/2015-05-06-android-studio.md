@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Studio
+title: Android Studio my post curl and spirw anoly
 categories: Android
 description: Android Studio 使用过程中遇到的一些问题和解决方案集合。
 keywords: Android, Android Studio
