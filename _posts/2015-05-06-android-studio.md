@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Android Studio 遇到问题集锦
+title: Android Studio
 categories: Android
 description: Android Studio 使用过程中遇到的一些问题和解决方案集合。
 keywords: Android, Android Studio
