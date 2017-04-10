@@ -35,9 +35,9 @@ navs:
     href: /categories/
     label: Post
 
-  -
-    href: /wiki/
-    label: Wiki
+#  -
+    #href: /wiki/
+  #  label: Wiki #
 
   -
     href: /links/
