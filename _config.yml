@@ -29,19 +29,19 @@ email: chumpma@gmail.com
 navs:
   -
     href: /
-    label: Trang chủ
+    label: Home
 
   -
     href: /categories/
-    label: Bài viết
+    label: Post
 
   -
     href: /wiki/
-    label: Tra cứu
+    label: Wiki
 
   -
     href: /links/
-    label: Liên kết
+    label: Links
 
   -
     href: /about/
